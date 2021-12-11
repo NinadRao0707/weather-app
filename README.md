@@ -1,3 +1,14 @@
+## Simple Weather
+
+This application downloads and displays weather forecasts.
+It is intended to be used to show how various standard application features are integrated and used together. The following features are used:
+
+- Adaptive user interface widgets for use on small and large screen devices
+- Resource bundles for including critical application resources
+- Access to application settings storage for recording default settings
+- Using weather API to collect data
+- Cascading Style Sheets (CSS) for application styling
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
