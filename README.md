@@ -1,4 +1,4 @@
-## Simple Weather
+## Weather App
 
 This application downloads and displays weather forecasts.
 It is intended to be used to show how various standard application features are integrated and used together. The following features are used:
