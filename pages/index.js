@@ -1,5 +1,6 @@
-import Head from 'next/head'
+import Head from "next/head";
 import SearchBox from "../components/SearchBox";
+import FamousPlaces from "../components/FamousPlaces";
 
 export default function Home() {
   return (
@@ -10,9 +11,11 @@ export default function Home() {
 
       <div className="home">
         <div className="container">
-          <SearchBox/>
+          <SearchBox placeholder="Search for a city..." />
+
+          <FamousPlaces />
         </div>
       </div>
     </div>
-  )
+  );
 }
